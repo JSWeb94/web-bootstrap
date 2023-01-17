@@ -1,0 +1,166 @@
+/* line 14, css/style.scss */
+/* line 2, css/style.css */
+.jumbotron {
+  background-color: #B0C4DE;
+  color: black;
+  margin-top: 0px; }
+
+/* line 19, css/style.scss */
+/* line 8, css/style.css */
+.btn {
+  color: black;
+  background-color: #DCDCDC;
+  border-color: #DCDCDC; }
+
+/* line 24, css/style.scss */
+/* line 14, css/style.css */
+footer {
+  background: white;
+  margin-top: 80px;
+  margin-bottom: 10px;
+  margin-left: 40px;
+  margin-right: 40px;
+  color: black;
+  padding: 10px 50px 10px 50px;
+  border-radius: 9px; }
+
+/* line 32, css/style.scss */
+/* line 25, css/style.css */
+.card-hotel {
+  flex: 1 100px;
+  margin-top: 5px;
+  border: 2px;
+  border-color: black;
+  margin-left: 5px;
+  margin-right: 5px;
+  border-radius: 10px; }
+
+/* line 40, css/style.scss */
+/* line 35, css/style.css */
+.boton-reserva {
+  width: 100%; }
+
+/* line 43, css/style.scss */
+/* line 39, css/style.css */
+.margenIcon {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: -3px; }
+
+/* line 47, css/style.scss */
+/* line 45, css/style.css */
+.breadcrumb {
+  background: #F0F8FF;
+  border-radius: 8px;
+  margin-top: 130px;
+  padding: 10px 30px 10px 10px; }
+
+/* line 53, css/style.scss */
+/* line 52, css/style.css */
+body {
+  background:#f1fed9;
+  background-image: url("/images/rr.jpeg");
+  background-size: cover;
+  font-family: Helvetica,Futura,Arial,Verdana,sans-serif; }
+
+/* line 60, css/style.scss */
+/* line 59, css/style.css */
+hr {
+  padding: 1px 1px 1px 1px;
+  border-color: black; }
+
+/* line 64, css/style.scss */
+/* line 64, css/style.css */
+.MargFooter {
+  margin-top: 0px; }
+
+/* line 67, css/style.scss */
+/* line 68, css/style.css */
+.card-prs {
+  flex: 1 140px;
+  padding: 2px 5px 2px 5px;
+  margin-top: 10px; }
+
+/* line 72, css/style.scss */
+/* line 74, css/style.css */
+.Coment {
+  margin-left: 75px;
+  margin-right: 75px; }
+
+/* line 75, css/style.scss */
+/* line 79, css/style.css */
+.space {
+  margin-top: 20px;
+  margin-bottom: 20px; }
+
+/* line 78, css/style.scss */
+/* line 84, css/style.css */
+a:link, a:visited, a:hover, a:active {
+  color: #000000;
+  text-decoration: none; }
+
+/* line 82, css/style.scss */
+/* line 89, css/style.css */
+.carrouselC {
+  padding-top: 20;
+  padding-bottom: 20;
+  margin-top: 20px;
+  margin-bottom: 50px; }
+
+/* line 86, css/style.scss */
+/* line 95, css/style.css */
+.margenComentario {
+  margin-left: 0px;
+  margin-right: 0px; }
+
+/* line 89, css/style.scss */
+/* line 100, css/style.css */
+.styleTabla {
+  margin-top: 50px;
+  margin-left: 70px;
+  margin-right: 70px;
+  border-radius: 8px; }
+
+/* line 94, css/style.scss */
+/* line 107, css/style.css */
+.priceICON {
+  margin-top: -5px; }
+
+/* line 97, css/style.scss */
+/* line 111, css/style.css */
+.contCards {
+  margin-top: 50px; }
+
+/* line 100, css/style.scss */
+/* line 115, css/style.css */
+.controlInfo {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 40px;
+  margin-right: 40px;
+  padding: 20px 50px 20px 50px; }
+
+/* line 105, css/style.scss */
+/* line 123, css/style.css */
+.Coment {
+  margin-top: 50px; }
+
+/* line 108, css/style.scss */
+/* line 127, css/style.css */
+.navB {
+  margin-left: 20px; }
+
+/* line 111, css/style.scss */
+/* line 131, css/style.css */
+.navBar {
+  padding: 5px 0px 0px 5px;
+  border-radius: 15px; }
+
+/* line 115, css/style.scss */
+/* line 136, css/style.css */
+.styleBtn {
+  border-radius: 10px;
+  color: black;
+  border-color: #DCDCDC;
+  width: 200px;
+  height: 50px; }
